@@ -3,8 +3,7 @@
 # 🍪 Cookie Sales Dashboard
 
 ## 📚 Project Overview
-This project focuses on building an **interactive sales performance dashboard in Microsoft Excel** to analyze key business metrics such as **profit, unit sales, and trends over time**.  
-The dashboard is fully dynamic and updates automatically as new data is added—without using VBA or add-ins.
+This project focuses on building an **interactive sales performance dashboard in Microsoft Excel** to analyze key business metrics such as **profit, unit sales, and trends over time**. The dashboard is fully dynamic and updates automatically as new data is added—without using VBA or add-ins.
 
 ---
 
